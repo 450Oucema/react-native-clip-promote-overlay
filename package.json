@@ -1,0 +1,19 @@
+
+{
+  "name": "react-native-clip-promote-overlay",
+  "version": "0.1",
+  "description": "App Clip's Appstore overlay for React Native apps",
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "app-store",
+    "clip",
+    "ios"
+  ],
+  "author": "Oucema JLAIEL",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "react-native": "^0.71.0"
+  },
+  "repository": "https://github.com/450Oucema/react-native-app-promoter"
+}

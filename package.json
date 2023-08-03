@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-clip-promote-overlay",
-  "version": "0.1",
+  "version": "0.2",
   "description": "App Clip's Appstore overlay for React Native apps",
   "main": "index.js",
   "keywords": [
